@@ -77,13 +77,10 @@ function dec(n) {
   return n -= 1
 }
 
-function makeInt(a) {
-  parseInt('n', 10)
+function makeInt(parseInt) {
+  ('n', 10)
 }
 
-function preserveDecimal(n) {{
-  parseFloat(n) }
+
   
-  function preserveDecimal('2.222')
-}
-}
+  
