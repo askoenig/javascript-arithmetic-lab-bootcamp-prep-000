@@ -77,11 +77,11 @@ function dec(n) {
   return n -= 1
 }
 
-function makeInt(a) {
+function makeInt(n) {
    return parseInt('n', 10)
 }
 
-function preserveDecimal(a) {
+function preserveDecimal(n) {
   parseFloat('n')
 }
   
